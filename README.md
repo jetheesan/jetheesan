@@ -4,10 +4,12 @@
 Welcome to my GitHub! I'm a full-stack developer with a strong background in both healthcare and technology, with hands-on experience in operations, strategy, and product development. I have a passion for building impactful projects that drive innovation and efficiency.
 
 ## 🌟 About Me
-- 💼 **Current Role:** Recent graduate from Makers Academy, a leading coding bootcamp.
-- 🎓 **Education:** MEng in Chemical & Process Engineering from the University of Leeds.
-- 💡 **Past Experience:** Drove product innovation by launching Piper's learning platform and executing strategic operations, following my role at SHJ Hospital Pipelines, where I improved estimation accuracy, led successful client negotiations, and enhanced client relations.
-- 🚀 **Current Focus:** Full-stack development with expertise in Python, JavaScript, Kotlin, and more.
+- **Current Role:** Recent graduate from Makers Academy, a leading coding bootcamp.
+- **Education:** MEng in Chemical & Process Engineering from the University of Leeds.
+- **Past Experience:**
+  - **Piper:** Drove product innovation by launching the learning platform and managing strategic operations.
+  - **SHJ Hospital Pipelines:** Improved estimation accuracy, led client negotiations, and enhanced client relations.
+- **Current Focus:** Full-stack development with expertise in Python, JavaScript, Kotlin, and more.
 
 ## 🔧 Tech Stack
 - **Programming Languages:** Python, JavaScript, Kotlin
@@ -17,9 +19,9 @@ Welcome to my GitHub! I'm a full-stack developer with a strong background in bot
 - **Tools & Frameworks:** Git, Postman, Nodemon, ESLint, Figma, Balsamiq
 
 ## 💻 Projects
-- **[Movie Heroes](https://github.com/jetheesan/movie-heroes):** A full-stack app that uses ML to give movie recommendations to users.
-- **[Acebook](https://github.com/jetheesan/acebook):** A social networking app made using the MERN stack.
-- **[JetStack](https://github.com/jetheesan/jetstack):** A habit-forming app to help users build and sustain enduring habits.
+- **[Movie Heroes](https://github.com/jetheesan/MovieHeroes):** A full-stack app that uses ML to give movie recommendations to users.
+- **[Acebook](https://github.com/josecfl/acebook-Watermelon):** A social networking app made using the MERN stack.
+- **[JetStack](https://github.com/jetheesan/JetStack):** A habit-forming app to help users build and sustain enduring habits.
 
 ## 🛠️ What I’m Currently Working On
 - Building more full-stack projects to expand my portfolio.
