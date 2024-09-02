@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a full-stack developer with a strong background in bot
 ## 🌟 About Me
 - 💼 **Current Role:** Recent graduate from Makers Academy, a leading coding bootcamp.
 - 🎓 **Education:** MEng in Chemical & Process Engineering from the University of Leeds.
-- 💡 **Past Experience:** Led the launch of a learning and development platform at Piper, a SaaS startup, and worked as an Engineering Estimator in the healthcare industry.
+- 💡 **Past Experience:** Drove product innovation by launching Piper's learning platform and executing strategic operations, following my role at SHJ Hospital Pipelines, where I improved estimation accuracy, led successful client negotiations, and enhanced client relations.
 - 🚀 **Current Focus:** Full-stack development with expertise in Python, JavaScript, Kotlin, and more.
 
 ## 🔧 Tech Stack
